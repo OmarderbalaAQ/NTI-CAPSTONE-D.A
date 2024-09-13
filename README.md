@@ -2,7 +2,6 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Project Structure](#project-structure)
 - [Data](#data)
 - [Analysis and Reports](#analysis-and-reports)
 - [How to Run the Project](#how-to-run-the-project)
@@ -13,21 +12,6 @@
 
 ## Project Overview
 This project involves a comprehensive analysis of supermarket sales data. The primary objective is to perform data wrangling, analysis, and visualization to extract meaningful insights. The project consists of multiple components including a data wrangling notebook, a detailed report, paginated and business insights reports,and business insights reports, and the final project hosted on GitHub
-## Project Structure
-The project repository contains the following files and directories:
-
-
-├── Data
-│   ├── supermarket_sales.csv
-├── Notebooks
-│   ├── Data_Wrangling.ipynb
-├── Reports
-│   ├── Data_Wrangling_Report.pdf
-│   ├── Business_Insights_Report.pdf
-├── PowerBI
-│   ├── Paginated_Report.pbix
-├── README.md
-
 
 
 
@@ -67,7 +51,7 @@ The dataset used for this project is the "Supermarket Sales" data. It includes v
 - Python 3.x
 - Jupyter Notebook
 - Power BI Desktop
-- Required Python packages (listed in `requirements.txt`)
+
 
 ## Results
 The analysis provides a comprehensive understanding of supermarket sales data, highlighting trends, patterns, and anomalies. Key insights include:
@@ -77,8 +61,8 @@ The analysis provides a comprehensive understanding of supermarket sales data, h
 - Payment method preferences
 
 ## Authors
-- [Your Name](https://github.com/yourusername)
+- [omar abd almajeed](https://github.com/OmarderbalaAQ)
 
 ## Acknowledgments
-- Special thanks to the data providers and everyone who contributed to this project.
+- Special thanks to the data providers and youseff ezzelden the instructor of training .
 
