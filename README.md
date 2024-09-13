@@ -14,20 +14,7 @@
 ## Project Overview
 This project involves a comprehensive analysis of supermarket sales data. The primary objective is to perform data wrangling, analysis, and visualization to extract meaningful insights. The project consists of multiple components including a data wrangling notebook, a detailed report, paginated and business insights reports,and business insights reports, and the final project hosted on GitHub
 
-## Project Structure
-The project repository contains the following files and directories:
 
-.
-├── Data
-│   ├── supermarket_sales.csv
-├── Notebooks
-│   ├── Data_Wrangling.ipynb
-├── Reports
-│   ├── Data_Wrangling_Report.pdf
-│   ├── Business_Insights_Report.pdf
-├── PowerBI
-│   ├── Paginated_Report.pbix
-├── README.md
 
 
 
@@ -45,10 +32,6 @@ The dataset used for this project is the "Supermarket Sales" data. It includes v
 - Total
 - Date
 - Time
-- Payment method
-- Cost of goods sold (COGS)
-- Gross margin percentage
-- Gross income
 - Rating
 
 ## Analysis and Reports
