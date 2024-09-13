@@ -17,7 +17,17 @@ This project involves a comprehensive analysis of supermarket sales data. The pr
 ## Project Structure
 The project repository contains the following files and directories:
 
-. ├── Data │ ├── supermarket_sales.csv ├── Notebooks │ ├── Data_Wrangling.ipynb ├── Reports │ ├── Data_Wrangling_Report.pdf │ ├── Business_Insights_Report.pdf ├── PowerBI │ ├── Paginated_Report.pbix ├── README.md
+.
+├── Data
+│   ├── supermarket_sales.csv
+├── Notebooks
+│   ├── Data_Wrangling.ipynb
+├── Reports
+│   ├── Data_Wrangling_Report.pdf
+│   ├── Business_Insights_Report.pdf
+├── PowerBI
+│   ├── Paginated_Report.pbix
+├── README.md
 
 
 
