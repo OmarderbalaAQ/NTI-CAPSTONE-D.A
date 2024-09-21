@@ -62,6 +62,9 @@ The analysis provides a comprehensive understanding of supermarket sales data, h
 
 ## Authors
 - [omar abd almajeed](https://github.com/OmarderbalaAQ)
+- [Omnya Ahmed](https://github.com/omnya122)
+- Fatma Ehab
+
 
 ## Acknowledgments
 - Special thanks to the data providers and youseff ezzelden the instructor of training .
