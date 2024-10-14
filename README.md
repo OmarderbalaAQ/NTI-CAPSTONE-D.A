@@ -61,8 +61,8 @@ The analysis provides a comprehensive understanding of supermarket sales data, h
 - Payment method preferences
 
 ## Authors
-- [omar abd almajeed](https://github.com/OmarderbalaAQ)
-- [Omnya Ahmed](https://github.com/omnya122)
+- [Omar Abd Almajeed](https://github.com/OmarderbalaAQ)
+- [Omnya Ahmed Galal](https://github.com/omnya122)
 - Fatma Ehab
 
 
